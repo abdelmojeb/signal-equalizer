@@ -1,4 +1,4 @@
-this program is comrised of two files written in Matlab language
+this program is comprised of two files written in Matlab language
 the first:(Ray_SNR.m) 
 	generate random signal 
 	modulate it using BPSK 
